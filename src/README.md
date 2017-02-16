@@ -25,3 +25,22 @@ emacs ./src/README.md
 ```
 
 then I wrote this readme withe project already!
+
+
+## usage
+
+```
+npm run start
+```
+
+because it's just a create-react-app clone.
+
+Then you can change the readme file in ./src/index.js to anything
+
+inculding ../../other-project/README.md
+
+the url loader limit is set to 100k
+
+if your README is longer than that, increase the limit yo!
+
+but srsly, if your README is 100k you already knew that.
