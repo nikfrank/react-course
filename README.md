@@ -16,6 +16,8 @@ to bake a cake from scratch, we must first create the universe
 
 [lesson 2](./lessons/2.md)
 
+[lesson 3](./lessons/3.md)
+
 ### workbooks
 
 [workbook 0 - blackjack](https://github.com/nikfrank/react-course-workbook-0)
@@ -23,3 +25,5 @@ to bake a cake from scratch, we must first create the universe
 [workbook 1 - ulpan](https://github.com/nikfrank/react-course-workbook-1)
 
 [workbook 2 - work for snoop](https://github.com/nikfrank/react-course-workbook-2)
+
+[workbook 3 - plan a party](https://github.com/nikfrank/react-course-workbook-3)
