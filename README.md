@@ -7,6 +7,10 @@ to bake a cake from scratch, we must first create the universe
 - rp feynman
 ```
 
+### git cheat sheet
+
+[git cheat sheet](./lessons/git.md)
+
 
 ### workbooks
 
@@ -48,3 +52,60 @@ here we'll use external APIs for exchange rate data to build a useful app - whic
 We'll use a 3rd party lib for charts, and design our front end for desktop and mobile.
 
 (( for in person students, this is probably a good time to learn heroku deploy ))
+
+
+
+---
+
+notes
+
+
+cd commands need to be explained
+
+git commands need to be explained
+
+(link to git cheat sheet)
+
+concepts sections -> ### ** por ejemplo **
+
+review all ./lessons -> needs fileNames on all ```js```
+
+explicit placeholders, more pseudocode comments
+
+using images to teach the teaching method (this is a placeholder)
+OR
+course styleguide
+
+
+3 should be lifeCycle lesson + advance with eventHandler
+
+
+
+concepts sections should be funnier / bizarre + landmarking (memory palace, story)
+
+concepts sections should not be walkthroughs
+
+use as platform for priming (discuss "this is how we *could* do whatever something)
+
+see then walk
+
+what is currently labeled "concepts" is more like "tactics" which has a place somewhere
+
+repeat concept from second angle
+
+wet = with metaphor
+
+dry = without metaphor
+
+then walkthrough
+
+
+
+
+mini concepts
+
+minimum viable walkthrough for main topic
+
+full concepts
+
+full exercises
