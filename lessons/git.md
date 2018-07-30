@@ -143,4 +143,42 @@ $ git push progress working-branch
 ---
 
 
+
+### Saving and Merging when moving to the next step:
+
+```
+$ git checkout current-step
+# now we're on the current-step branch
+
+# ... do some work in the text editor ...
+
+$ git status
+# we should have work on current-step
+
+$ git commit -am "I did some work"
+$ git checkout next-step
+
+# now we'll merge our work from current-step
+$ git merge current-step
+
+# now we're on the next-step branch and
+# we have all the work from current-step
+# merged into everything made available to us in next-step
+```
+
+
+when we do this, we might get a merge conflict
+
+to resolve that we'll have to go through the file with conflicts and choose which version of the code to take
+
+then do a commit
+
+
+this is an intermediate level technique in git - it is useful to learn eventually, but if it's too complicated for now you have two options:
+- keep working and committing on the same branch (keep your work, may get off course)
+- commit you work to each step-NUMBER branch and checkout the next step-NUMBER+1 branch (without your work, will definitely stay on course)
+
+
+
+
 [back to index](https://github.com/nikfrank/react-course)

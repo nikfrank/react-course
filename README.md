@@ -7,7 +7,7 @@ to bake a cake from scratch, we must first create the universe
 - rp feynman
 ```
 
-### git cheat sheet
+#### git cheat sheet
 
 [git cheat sheet](./lessons/git.md)
 
