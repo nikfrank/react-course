@@ -109,3 +109,12 @@ minimum viable walkthrough for main topic
 full concepts
 
 full exercises
+
+---
+
+notes features:
+
+1) screenshot the code blocks
+- use arrows for directional code
+- use some symbol/color for functions based on what kind of thing they do
+- use specialized color for labeling framework specific names / (lifecycle, hooks)
