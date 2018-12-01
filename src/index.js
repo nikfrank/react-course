@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import readme from '../lessons/1.md';
+import readme from '../lessons/2.md';
 
 ReactDOM.render(
   (<div>
