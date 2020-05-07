@@ -4,7 +4,7 @@
 
 ```
 to bake a cake from scratch, we must first create the universe
-- rp feynman
+- carl sagan
 ```
 
 #### git cheat sheet
